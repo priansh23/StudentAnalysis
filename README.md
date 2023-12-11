@@ -1,2 +1,2 @@
-# myfirst
-It's my first project on github
+# Student Study Anlysis
+It's basically an analysis made on the factors affecting the studies of students and marks they are securing
